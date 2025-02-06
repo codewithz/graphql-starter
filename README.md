@@ -9,16 +9,14 @@ To get started, install the required dependencies using `pip`:
 ```bash
 pip install fastapi strawberry-graphql uvicorn
 
+____________________________________________________________________
 
-## For Starting the server
+For Starting the server
 
-```bash
 python graphql_server.py
 
-
+____________________________________________________________________
 ## Once started access on
-```bash
-
 
 http://127.0.0.1:8000/graphql
 
